@@ -1,6 +1,13 @@
 {% assign dev_icon_image_height = '30px' %}
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<style>
+    .dev-icon {
+        font-size: 30px !important;
+    }
+    
+</style>
+          
 ###
 
 <div align="center">
@@ -16,52 +23,34 @@
 
 #### Programming Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
+    <i class="dev-icon devicon-python-plain-wordmark"></i>
+    <i class="dev-icon devicon-java-plain-wordmark colored"></i>
+    <i class="dev-icon devicon-javascript-plain colored"></i>
+    <i class="dev-icon devicon-jquery-plain-wordmark colored"></i>
+    <i class="dev-icon devicon-typescript-plain colored"></i>
+    <i class="dev-icon devicon-react-original-wordmark colored"></i>
 </div>
 
 #### Frontend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+    <i class="dev-icon devicon-html5-plain-wordmark colored"></i>
+    <i class="dev-icon devicon-css3-plain-wordmark colored"></i>
 </dev>
 
 #### DevOps
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg"  height="30" alt="pypi logo"  />
-  <img width="12" />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="terraform_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" alt="bash_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" height="30" alt="bash_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git_logo"/>
-  <img width="12" />
+    <i class="dev-icon devicon-ssh-original-wordmark"></i>
+    <i class="dev-icon devicon-pypi-plain-wordmark"></i>
+    <i class="dev-icon devicon-amazonwebservices-plain-wordmark colored"></i>
+    <i class="dev-icon devicon-terraform-plain-wordmark colored"></i>
+    <i class="dev-icon devicon-linux-plain"></i>
+    <i class="dev-icon devicon-bash-plain"></i>
+    <i class="dev-icon devicon-git-plain colored"></i>
 </div>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="30" alt="mariadb_logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" height="30" alt="json logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" alt="spring_logo"/>
-  <img width="12" />
+    <i class="dev-icon devicon-json-plain colored"></i>
+    <i class="dev-icon devicon-spring-original-wordmark colored"></i>
+    <i class="dev-icon devicon-mariadb-original-wordmark colored"></i>
 </div>
 
 ###
